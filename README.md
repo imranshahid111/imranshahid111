@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @imranshahid111
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning BS Software Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta : imr_an_shahid
+# Hi, I'm Imran Shahid! 👋
 
-<!---
-imranshahid111/imranshahid111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 MERN Stack Developer | Software Engineer
+
+![GitHub followers](https://img.shields.io/github/followers/imranshahid?style=social)
+![GitHub stars](https://img.shields.io/github/stars/imranshahid?style=social)
+
+Welcome to my GitHub profile! I'm a passionate Software Engineer specializing in the **MERN (MongoDB, Express.js, React, Node.js) Stack**. I love building scalable web applications and continuously learning new technologies.
+
+---
+
+## 🔧 Technologies & Tools
+- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind, Bootstrap
+- **Backend:** Node.js, Express.js, FastAPI
+- **Database:** MongoDB, SQL, PostgreSQL
+- **Other:** Git, Docker, Firebase, RESTful APIs, GraphQL
+
+---
+
+
+
+## 📫 Let's Connect!
+- **LinkedIn:** (https://www.linkedin.com/in/imran-shahid-1a8545226/)
+- **GitHub:** [github.com/imranshahid111](#)
+- **Email:** imranshahidkhan111.com
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and contribute. 🚀
+

@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer specializing in
 ---
 
 ## 🔧 Technologies & Tools
-- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind, Bootstrap
+- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind, Bootstrap , React-Native
 - **Backend:** Node.js, Express.js, FastAPI
 - **Database:** MongoDB, SQL, PostgreSQL
 - **Other:** Git, Docker, Firebase, RESTful APIs, GraphQL
